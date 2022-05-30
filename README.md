@@ -1,11 +1,5 @@
 ### Hi there 👋 My name is Adrian Stoian. Welcome to my work space!
 
-
- 
-  ![github](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
- 
-
-
 #### Here you will find all of my projects (past and present). I am always learning something new so I can add it to my current skills and grow as a web developer.
 #### Also you can see my Portfolio here : 
 
